@@ -1,2 +1,2 @@
 # node-express-sql
-api's created in node-express and MySQL queries.
+api's created using node-express and MySQL queries.
